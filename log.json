@@ -1,0 +1,6 @@
+{
+  "cur": 1, 
+  "end": 5,
+  "errors": [], 
+  "_comment": "cur used to indicate the current process page and stop at page end-1; errors are pages that need to be processed again"
+}
